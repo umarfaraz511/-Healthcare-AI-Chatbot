@@ -81,6 +81,11 @@ healthcare-chatbot/
 
 This bot provides general health information only. **Not a substitute for professional medical advice.**
 
+![model output](health care chatbot terminal 1.png)
+![model output](healthcare 2 correct.png)
+![model output](healthcare 3.png)
+
+
 ## 👤 Author
 
 **Umar Faraz** - ML Engineer & Web Developer
@@ -93,5 +98,8 @@ This bot provides general health information only. **Not a substitute for profes
 **⭐ Star this repo if you find it helpful!**
 
 Made with ❤️ for accessible healthcare
+
+
+
 
 </div>
