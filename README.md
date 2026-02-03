@@ -81,7 +81,7 @@ healthcare-chatbot/
 
 This bot provides general health information only. **Not a substitute for professional medical advice.**
 
-![model output](health care chatbot terminal 1.png)
+![image alt](https://github.com/umarfaraz511/-Healthcare-AI-Chatbot/blob/03477b04a6c38150c73c8a5b07d1276a89a9d405/healthcare%203.png)
 ![model output](healthcare 2 correct.png)
 ![model output](healthcare 3.png)
 
