@@ -8,8 +8,6 @@
 
 A production-ready healthcare chatbot providing instant medical guidance in **English**, **Urdu (اردو)**, and **Arabic (العربية)**.
 
----
-
 ## ✨ Features
 
 - 🤖 **AI-Powered** - Google Gemini 2.5 Flash for accurate responses
@@ -18,12 +16,11 @@ A production-ready healthcare chatbot providing instant medical guidance in **En
 - 💬 **Dual Mode** - Terminal app + Telegram bot
 - 📊 **Comprehensive** - Symptoms, diseases, nutrition, first aid
 
----
 
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/healthcare-chatbot.git
+git clone https://github.com/umarfaraz511/healthcare-chatbot.git
 cd healthcare-chatbot
 
 # Install dependencies
@@ -40,8 +37,6 @@ python terminal_mode.py
 python main.py
 ```
 
----
-
 ## 💬 Demo
 
 **English:** "What are symptoms of diabetes?"  
@@ -49,8 +44,6 @@ python main.py
 **Arabic:** "ما هي أعراض السكري؟"
 
 All answered instantly with accurate medical information!
-
----
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +53,6 @@ All answered instantly with accurate medical information!
 - **Langdetect** - Language detection
 - **Asyncio** - Async processing
 
----
 
 ## 📁 Structure
 ```
@@ -74,9 +66,6 @@ healthcare-chatbot/
 │   ├── language_handler.py
 │   └── prompts.py
 └── requirements.txt
-```
-
----
 
 ## 🎯 Commands
 
@@ -88,19 +77,9 @@ healthcare-chatbot/
 - `/start` - Begin
 - `/language` - Change language
 
----
-
 ## ⚠️ Disclaimer
 
 This bot provides general health information only. **Not a substitute for professional medical advice.**
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file
-
----
 
 ## 👤 Author
 
@@ -108,8 +87,6 @@ MIT License - See [LICENSE](LICENSE) file
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/umar-faraz-700457280)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/umarfaraz5111)
-
----
 
 <div align="center">
 
