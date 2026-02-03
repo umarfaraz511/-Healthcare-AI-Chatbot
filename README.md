@@ -15,6 +15,8 @@ A production-ready healthcare chatbot providing instant medical guidance in **En
 - ⚡ **Real-Time** - Instant medical guidance
 - 💬 **Dual Mode** - Terminal app + Telegram bot
 - 📊 **Comprehensive** - Symptoms, diseases, nutrition, first aid
+- <img width="707" height="326" alt="health care chatbot terminal 1" src="https://github.com/user-attachments/assets/cd38b28a-70cf-4937-9bc2-da2c7f72b6f2" />
+
 
 
 ## 🚀 Quick Start
