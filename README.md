@@ -37,6 +37,14 @@ python terminal_mode.py
 python main.py
 ```
 
+<img width="707" height="326" alt="health care chatbot terminal 1" src="https://github.com/user-attachments/assets/7a41b651-b9ed-491c-969c-110f3731fbe4" />
+
+
+
+<img width="863" height="456" alt="healthcare 2 correct" src="https://github.com/user-attachments/assets/348ee115-8679-479d-bc41-83240e151780" />
+<img width="950" height="464" alt="healthcare 3" src="https://github.com/user-attachments/assets/f2f6cfcb-c5e5-4e2e-b937-b57b635d5568" />
+
+
 ## 💬 Demo
 
 **English:** "What are symptoms of diabetes?"  
