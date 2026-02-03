@@ -15,8 +15,6 @@ A production-ready healthcare chatbot providing instant medical guidance in **En
 - ⚡ **Real-Time** - Instant medical guidance
 - 💬 **Dual Mode** - Terminal app + Telegram bot
 - 📊 **Comprehensive** - Symptoms, diseases, nutrition, first aid
-- <img width="707" height="326" alt="health care chatbot terminal 1" src="https://github.com/user-attachments/assets/cd38b28a-70cf-4937-9bc2-da2c7f72b6f2" />
-
 
 
 ## 🚀 Quick Start
@@ -81,12 +79,7 @@ healthcare-chatbot/
 
 ## ⚠️ Disclaimer
 
-This bot provides general health information only. **Not a substitute for professional medical advice.**
-
-![model output](https://github.com/umarfaraz511/-Healthcare-AI-Chatbot/blob/03477b04a6c38150c73c8a5b07d1276a89a9d405/healthcare%203.png)
-![model output](healthcare 2 correct.png)
-![model output](healthcare 3.png)
-
+This bot provides general health information only. **Not a substitute for professional medical advice.*
 
 ## 👤 Author
 
@@ -101,7 +94,13 @@ This bot provides general health information only. **Not a substitute for profes
 
 Made with ❤️ for accessible healthcare
 
-
-
-
 </div>
+<img width="707" height="326" alt="health care chatbot terminal 1" src="https://github.com/user-attachments/assets/7a41b651-b9ed-491c-969c-110f3731fbe4" />
+
+
+
+<img width="863" height="456" alt="healthcare 2 correct" src="https://github.com/user-attachments/assets/348ee115-8679-479d-bc41-83240e151780" />
+<img width="950" height="464" alt="healthcare 3" src="https://github.com/user-attachments/assets/f2f6cfcb-c5e5-4e2e-b937-b57b635d5568" />
+
+
+
