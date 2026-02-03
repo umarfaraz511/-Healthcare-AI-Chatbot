@@ -106,8 +106,8 @@ MIT License - See [LICENSE](LICENSE) file
 
 **Umar Faraz** - ML Engineer & Web Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofil)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/umar-faraz-700457280)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/umarfaraz5111)
 
 ---
 
